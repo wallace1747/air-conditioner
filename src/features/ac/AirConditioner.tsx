@@ -10,6 +10,7 @@ import { useAppSelector } from "../../app/hooks";
 
 import { AcMode, selectTemperature } from "./acSlice";
 import { ximalayaLink, jumpToXimalaya } from "../adsense";
+REACT_APP_DISABLE_ADSENSE=true
 
 const acColor = {
   border: "#e0e0e0",
