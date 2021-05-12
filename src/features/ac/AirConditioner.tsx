@@ -310,7 +310,7 @@ export default function AirConditioner(props: {
         <AirOutlet />
         <AcStatus status={props.status} />
         <EnergyLabel className={classes.energyLabel} titleLength={6} />
-        {process.env.REACT_APP_DISABLE_ADSENSE ? null : <EnergySavingLabel />}
+        {process.env.REACT_APP_DISABLE_ADSENSE ? <EnergySavingLabel /> : null}
       </AcBorder>
       <Fade in={props.status} timeout={{ enter: 2500, exit: 1500 }}>
         <WindEffect />
