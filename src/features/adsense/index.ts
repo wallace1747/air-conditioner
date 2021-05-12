@@ -4,7 +4,7 @@ import ReactGA from "react-ga";
  * 喜马拉雅广告链接
  */
 export const ximalayaLink =
-  "www.baidu.com";
+  "https://www.baidu.com";
 
 /**
  * 跳转至喜马拉雅
