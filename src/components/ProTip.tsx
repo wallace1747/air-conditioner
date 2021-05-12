@@ -25,7 +25,7 @@ function XimalayaLink() {
         jumpToXimalaya();
       }}
     >
-      喜马拉雅
+      点击有惊喜
     </a>
   );
 }
