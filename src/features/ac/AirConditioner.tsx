@@ -256,7 +256,7 @@ function EnergySavingLabel() {
       >
         <img
           className="ximalaya-logo"
-          src="/*/ximalaya-logo.png*/"
+          src=""
           alt="ximalaya-logo"
         />
       </a>
