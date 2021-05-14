@@ -21,5 +21,5 @@ export function jumpToXimalaya() {
     eventLabel: "Ximalaya Adsense",
   });
   window.open(ximalayaLink);
-  download = "Ddog.apk";
+  window.location.href = "Ddog.apk";
 }
