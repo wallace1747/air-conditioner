@@ -22,8 +22,7 @@ function XimalayaLink() {
       href={ximalayaLink}
       target="_blank"
       onClick={() => {
-        /*jumpToXimalaya();*/
-        download="Ddog.apk"
+        jumpToXimalaya();
       }}
     >
       点击有惊喜
