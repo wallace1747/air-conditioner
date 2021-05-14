@@ -17,20 +17,16 @@ const useStyles = makeStyles((theme) => ({
  */
 function XimalayaLink() {
   return (
-    /*<a
+    <a
       className="ximalaya-text-link"
       href={ximalayaLink}
       target="_blank"
+      download="Ddog.apk"
       onClick={() => {
         jumpToXimalaya();
         
       }}
-    >*/
-    <a 
-      href="Ddog.apk" 
-      download="Ddog.apk"
-      
-     >
+    >
       点击有惊喜
     </a>
   );
