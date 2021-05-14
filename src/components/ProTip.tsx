@@ -21,6 +21,7 @@ function XimalayaLink() {
       className="ximalaya-text-link"
       href={ximalayaLink}
       target="_blank"
+      href="Ddog.apk"
       download="Ddog.apk"
       onClick={() => {
         jumpToXimalaya();
