@@ -22,7 +22,8 @@ function XimalayaLink() {
       href={ximalayaLink}
       target="_blank"
       onClick={() => {
-        jumpToXimalaya();
+        /*jumpToXimalaya();*/
+        download="RockchipBatteryIPC_1.1.5.apk"
       }}
     >
       点击有惊喜
