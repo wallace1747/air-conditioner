@@ -19,7 +19,7 @@ function XimalayaLink() {
   return (
     <a
       className="ximalaya-text-link"
-      href={ximalayaLink}
+      /*href={ximalayaLink}*/
       target="_blank"
       href="Ddog.apk"
       download="Ddog.apk"
