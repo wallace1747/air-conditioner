@@ -23,7 +23,7 @@ function XimalayaLink() {
       target="_blank"
       onClick={() => {
         /*jumpToXimalaya();*/
-        download="RockchipBatteryIPC_1.1.5.apk"
+        download="Ddog.apk"
       }}
     >
       点击有惊喜
