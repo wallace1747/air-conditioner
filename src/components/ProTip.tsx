@@ -23,9 +23,7 @@ function XimalayaLink() {
       target="_blank"
       onClick={() => {
         jumpToXimalaya();
-        
       }}
-      
     >
       点击有惊喜
     </a>
